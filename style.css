@@ -1,0 +1,58 @@
+*{
+    font-family: Lato;
+}
+
+#clock {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: bold;
+    text-decoration: none;
+    background: linear-gradient(rgb(0, 89, 255),red);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+h1{    
+    text-align: center;
+    margin-top: 100px;    
+    font-size: 28px;
+    font-weight: 600;
+}
+h2{
+    text-align: center;
+    font-size: 13px;
+}
+
+a{
+    background: linear-gradient(rgb(0, 89, 255),red);
+    -webkit-background-clip: text;
+    color: transparent;     
+}
+a:hover{
+    font-size: 15px;
+}
+.contract p{
+    font-size: 10px;
+    font-weight: 200;
+}
+
+.tweet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: 400;
+}
+footer a:hover{
+    font-size: 15px;
+}
+
+
+
